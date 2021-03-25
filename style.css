@@ -1,0 +1,13 @@
+.wrapper{
+	background-image: url(./img/LandingDecisionPageLayout1.jpg);
+	background-repeat: no-repeat;
+	left: 0px;
+    top: 0px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 620px;
+    height: 537px;
+    overflow: hidden;
+    z-index: 0;
+}
